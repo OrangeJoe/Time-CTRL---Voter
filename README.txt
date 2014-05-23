@@ -23,6 +23,4 @@ A player wishing to keep the current night cycle will run /vnight voiding a vote
 
 10 votes required to skip the night cycle, after 10 votes is reached the time will automatically change to 6.00am.
 
-Players that run /vtime:
-
-Players that run /time will receive a inventory notice displaying the current in-game time. As is the player is glancing at their wrist watch.
+Players that run /time will receive a inventory notice displaying the current in-game time. As if the player is glancing at their wrist watch.
